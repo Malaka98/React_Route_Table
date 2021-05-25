@@ -1,3 +1,9 @@
+# How to create route table and pass queryparam in react
+
+1. This repository shows you how to create a route table and sub routing to handle all the routes of a react application in one place.
+2. It also shows how to pass the query parameter.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
